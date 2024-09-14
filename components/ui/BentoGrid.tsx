@@ -46,7 +46,7 @@ export const BentoGridItem = ({
     titleClassName?: string;
     spareImg?: string;
   }) => {
-    const leftLists = ["ReactJS", "TypeScript", "JavaScript"];
+    const leftLists = ["ReactJS", "NextJs", "JavaScript"];
     const rightLists = ["WebFlow", "Framer", "Figma"];
   
     const [copied, setCopied] = useState(false);
@@ -74,8 +74,6 @@ export const BentoGridItem = ({
           className
         )}
         style={{
-          //   add these two
-          //   you can generate the color from here https://cssgradient.io/
           background: "rgb(4,7,29)",
           backgroundColor:
             "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
