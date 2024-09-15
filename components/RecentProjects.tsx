@@ -25,7 +25,7 @@ const RecentProjects = () => {
                                 <img
                                     src={img}
                                     alt={title}
-                                    className='z-10 absolute bottom-0' />
+                                    className='z-10 absolute bottom-0 w-full h-full object-contain lg:px-3 px-0'/>
                             </div>
                             <h1 className='font-bold lg:text-2xl mf:text=xl text-base line-clamp-1 '>
                                 {title}
