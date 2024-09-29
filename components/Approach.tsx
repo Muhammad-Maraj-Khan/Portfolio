@@ -13,7 +13,7 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-4">
         <Card title="Planning & Strategy"
           icon={<AceternityIcon order='Phase 1' />}
-          description="sssss">
+          description="Collaborate with stakeholders to define project goals and user needs. Create wireframes and mockups, plan the site architecture, and choose appropriate technologies and frameworks for the project.">
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
@@ -21,7 +21,7 @@ const Approach = () => {
         </Card>
         <Card title="Development & Progess Update"
           icon={<AceternityIcon order='Phase 2' />}
-          description="ssss">
+          description="Build responsive and interactive user interfaces using the Technologies decided. Implement features, integrate APIs, and provide regular progress updates to the team and stakeholders.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -35,7 +35,7 @@ const Approach = () => {
         </Card>
         <Card title="Development & Launch"
           icon={<AceternityIcon order='Phase 4' />}
-          description="ssss">
+          description="Finalize all features, conduct thorough testing and bug fixes. Optimize performance, ensure cross-browser compatibility, and prepare the application for deployment. Assist with the launch process and provide post-launch support.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"

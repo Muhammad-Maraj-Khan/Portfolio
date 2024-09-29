@@ -111,14 +111,14 @@ export const navItems = [
     {
       id: 1,
       title: "Lead Front-end Developer at Primech",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      desc: "As Web Development Team Lead at Primech Agency, I manage projects and a team delivering high-quality web applications. I lead development using various technologies like ReactJs, mentor junior developers, and drive innovation while ensuring optimal performance and user experience.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
       title: "Junior Front-end developer at JtechSight",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      desc: "As a Junior Web Developer at Jtechsight, I developed responsive web pages and collaborated with designers and project managers to meet project requirements, utilizing technologies like HTML, CSS, and JavaScript. My contributions helped launch successful projects and enhance user experiences.",
       className: "md:col-span-2", 
       thumbnail: "/exp4.svg",
     },
