@@ -34,7 +34,7 @@ const Approach = () => {
 
         </Card>
         <Card title="Development & Launch"
-          icon={<AceternityIcon order='Phase 4' />}
+          icon={<AceternityIcon order='Phase 3' />}
           description="Finalize all features, conduct thorough testing and bug fixes. Optimize performance, ensure cross-browser compatibility, and prepare the application for deployment. Assist with the launch process and provide post-launch support.">
           <CanvasRevealEffect
             animationSpeed={3}
