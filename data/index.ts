@@ -98,11 +98,11 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Primech Agency Landing Page",
-      des: "Primech Agency landing pages is all about web development services. They offer innovative and scalable solutions to elevate businesses online in the field of web services.",
+      title: "Armory by Cisotronix",
+      des: "Cisotronix provides the Armory War Room, a cybersecurity platform for ethical hacking simulations and security analysis. The React.js-based frontend ensures an intuitive UI with real-time data visualization, responsive design, and seamless user experience.",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-      link: "https://primech-web-mk.vercel.app/",
+      link: "https://cisotronix.com/",
     },
   ];
   
